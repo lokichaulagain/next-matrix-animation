@@ -6,7 +6,7 @@ A React-based matrix rain animation using `framer-motion` for smooth falling eff
 
 1. Clone the repository:
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/lokichaulagain/next-matrix-animation
    ```
 2. Install dependencies:
    ```bash
